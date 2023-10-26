@@ -1,0 +1,25 @@
+{
+  "algorithm": {
+    "name": "julia",
+    "maxIterations": 256,
+    "c": {
+      "re": 0.285,
+      "im": 0.01
+    }
+  },
+  "grid": {
+    "center": {
+      "re": 0,
+      "im": 0
+    },
+    "scale": 0.005
+  },
+  "output": {
+    "path": "output.bmp",
+    "scheme": "grayscale",
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  }
+}
