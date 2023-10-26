@@ -4,6 +4,8 @@ This is my training project for C++23 and CMake. It draws fractals using the gri
 There's a substantial boilerplate code in the project, it may seem as an overkill for such a simple task.
 However, I wanted to try out some of the C++ features and CMake.
 
+<img src="example-output.bmp">
+
 # Building (Linux, MacOS, WSL2)
 
 Run in the main project folder
